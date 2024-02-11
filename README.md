@@ -14,3 +14,10 @@ Application doesn't work?
 𝙵 𝚄 𝙽 𝙲 𝚃 𝙸 𝙾 𝙽 𝚂 :
 
 ![e_lbtF_up_k](https://github.com/gen-xx/Criminality-Elysium/assets/159600522/2f6247b7-a56a-4753-8b59-3a7f057790d9)
+
+* Player ESP
+* Registers ESP
+* Safe ESP
+* Scraps ESP
+* Lockpick
+  
